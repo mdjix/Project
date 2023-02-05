@@ -7,3 +7,4 @@ def func(dict1):
 
 
 print(func({1: 'a', 2: 'b', 3: 'c'}))
+

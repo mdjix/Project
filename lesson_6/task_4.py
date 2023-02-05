@@ -27,3 +27,4 @@ print(range_number(result))
 #
 # result = func(int(input('Введите число: ')))
 # print(result)
+
